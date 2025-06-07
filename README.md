@@ -1,6 +1,6 @@
 🚀 **Azure y Terraform: Diseñando Arquitectura Cloud Robusta y Optimizada (Costo Cero)**
 
-Bienvenido al repositorio oficial del canal de YouTube `[Tu Nombre del Canal]`!
+Bienvenido al repositorio oficial del canal de YouTube `AppScriptDev`!
 
 Este repositorio alberga el código y los ejemplos de Infraestructura como Código (IaC) utilizando **Terraform** para **Microsoft Azure**. Nuestro objetivo es ir más allá de los tutoriales básicos, enseñándote a construir **arquitecturas cloud estratégicas, robustas y eficientes en costos**, aprovechando al máximo la **capa gratuita de Azure**.
 
